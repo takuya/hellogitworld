@@ -1,4 +1,4 @@
-# Hello world from OSAKA 
+# Meeting from OSAKA 
 
 - beer
 - wine
