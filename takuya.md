@@ -3,4 +3,4 @@
 - beer
 - wine
 - sake
-
+- whisky
